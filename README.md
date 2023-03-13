@@ -29,7 +29,8 @@
 <br>
 <h3 align="center">Github Stats</h3>
 <p align="center">
-<img height="170em" alt="Asad5059's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=asad5059" />
+<!-- <img height="170em" alt="Asad5059's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=asad5059" /> -->
+<img src="https://github-readme-stats.vercel.app/api?username=asad5059&show_icons=true&count_private=true&theme=dark" alt="Asad5059" />
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=asad5059&show_icons=true&locale=en&layout=compact" alt="asad5059" />
 <br />
 <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=asad5059" alt="asad5059" />
