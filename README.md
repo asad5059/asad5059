@@ -24,7 +24,7 @@
 <h3 align="center">&#128200; Competitive Programming</h3>
 <p align="center">
 <img height="250em" src="https://raw.githubusercontent.com/asad5059/cf-stats/main/output/light_card.svg" />
-<img height="170em" src="https://leetcard.jacoblin.cool/asad5059?theme=light&font=Karma&ext=contest" />
+<img height="250em" src="https://leetcard.jacoblin.cool/asad5059?theme=light&font=Karma&ext=contest" />
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asad5059&show_icons=true&locale=en&layout=compact" alt="asad5059" /></p>
 
