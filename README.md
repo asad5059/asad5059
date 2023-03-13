@@ -26,9 +26,12 @@
 <img height="250em" src="https://raw.githubusercontent.com/asad5059/cf-stats/main/output/light_card.svg" />
 <img height="250em" src="https://leetcard.jacoblin.cool/asad5059?theme=light&font=Karma&ext=contest" />
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asad5059&show_icons=true&locale=en&layout=compact" alt="asad5059" /></p>
+<br>
+<h3 align="center">Github Stats</h3>
+<p align="center">
+<img height="170em" alt="Asad5059's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=asad5059" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=asad5059&show_icons=true&locale=en&layout=compact" alt="asad5059" />
+<br />
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=asad5059" alt="asad5059" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asad5059&show_icons=true&locale=en" alt="asad5059" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asad5059&theme=dark&hide_border=false" alt="asad5059" /></p>
-<
+</p>
