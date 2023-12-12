@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **moslehuddinasad@gmail.com**
 
-- 📄 Know about my experiences [Here](https://drive.google.com/file/d/1DnV30wWCCz7AAjcnTbRB_t5vZ1spVtsk/view?usp=sharing)
+- 📄 Know about my experiences [Here](https://drive.google.com/file/d/1-yqa6AWBdaiOW2qMiG0zOlegbfeOLaM2/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
