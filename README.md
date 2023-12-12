@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 📫 How to reach me **mohammadasad5059@gmail.com**
+- 📫 How to reach me **moslehuddinasad@gmail.com**
 
 - 📄 Know about my experiences [Here](https://drive.google.com/file/d/1DnV30wWCCz7AAjcnTbRB_t5vZ1spVtsk/view?usp=sharing)
 
