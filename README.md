@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mosleh Uddin Asad</h1>
-<h3 align="center">A passionate Competitive Programmer, problem solver and web developer from Bangladesh.</h3>
+<h3 align="center">A passionate Software Engineer and Competitive Programmer from Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asad5059&label=Profile%20views&color=0e75b6&style=flat" alt="asad5059" /> </p>
 
