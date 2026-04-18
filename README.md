@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/asad5059/asad5059/main/Banner.svg" width="100%" alt="Mosleh Uddin Asad" />
+<img src="https://raw.githubusercontent.com/asad5059/asad5059/c01448da7f9e6423718ca2c323fc78a686a9d2c2/banner.svg" width="100%" alt="Mosleh Uddin Asad" />
 
 </div>
 
