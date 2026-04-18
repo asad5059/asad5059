@@ -17,7 +17,7 @@ Outside of product work, I'm actively exploring the AI/LLM space — building ag
 - 🔧 Building multi-tenant full stack Web Applications and AI-powered tooling
 - 🤖 Exploring LLM agents, RAG, and agentic workflows
 - 📐 Interested in system design, clean architecture, and backend scalability
-- 💬 Ask me about Django · DRF · React · Supabase · Tailwind · SQLAlchemy ·Competitive Programming
+- 💬 Ask me about Django · DRF · React · Supabase · Tailwind · SQLAlchemy · Competitive Programming
 - 📫 **moslehuddinasad@gmail.com**
 
 ---
