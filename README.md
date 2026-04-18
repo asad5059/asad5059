@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/asad5059/asad5059/698199516dda92502e2066a311a782858f06668e/banner.svg" width="100%" alt="Mosleh Uddin Asad" />
+<img src="https://raw.githubusercontent.com/asad5059/asad5059/main/Banner.svg" width="100%" alt="Mosleh Uddin Asad" />
 
 </div>
 
@@ -10,12 +10,15 @@
 
 ### Hey, I'm Asad 👋
 
-Full-stack engineer building production systems with **Django REST Framework** and **React**. I care a lot about clean API design and backend architecture — and I keep problem-solving sharp through competitive programming.
+Software engineer with a strong foundation in full-stack development and a growing passion for AI systems. I design and ship production-grade backends with **Django REST Framework**, build modern UIs with **React** and **Tailwind**, and architect data layers with **PostgreSQL** and **Supabase** — all while keeping an eye on system design and scalability.
 
-- 🔭 Currently working on REST API systems and multi-tenant integrations
-- 🌱 Deepening experience in system design and distributed systems
-- 💬 Ask me about Django, DRF, React, or competitive programming
-- 📫 Reach me at **moslehuddinasad@gmail.com**
+Outside of product work, I'm actively exploring the AI/LLM space — building agents, experimenting with RAG pipelines, and thinking about how intelligent systems integrate into real applications. I also compete in algorithmic programming, which keeps my problem-solving fundamentals sharp.
+
+- 🔧 Building multi-tenant REST APIs, courier integrations, and AI-powered tooling
+- 🤖 Exploring LLM agents, RAG, and agentic workflows
+- 📐 Interested in system design, clean architecture, and backend scalability
+- 💬 Ask me about Django · DRF · React · Supabase · Tailwind · Competitive Programming
+- 📫 **moslehuddinasad@gmail.com**
 
 ---
 
