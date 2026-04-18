@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/asad5059/asad5059/c01448da7f9e6423718ca2c323fc78a686a9d2c2/banner.svg" width="100%" alt="Mosleh Uddin Asad" />
+<img src="https://raw.githubusercontent.com/asad5059/asad5059/1d72a7edd9fc8ce3056a9084e9890fe0850499eb/banner.svg" width="100%" alt="Mosleh Uddin Asad" />
 
 </div>
 
@@ -14,10 +14,10 @@ Software engineer with a strong foundation in full-stack development and a growi
 
 Outside of product work, I'm actively exploring the AI/LLM space — building agents, experimenting with RAG pipelines, and thinking about how intelligent systems integrate into real applications. I also compete in algorithmic programming, which keeps my problem-solving fundamentals sharp.
 
-- 🔧 Building multi-tenant REST APIs, courier integrations, and AI-powered tooling
+- 🔧 Building multi-tenant full stack Web Applications and AI-powered tooling
 - 🤖 Exploring LLM agents, RAG, and agentic workflows
 - 📐 Interested in system design, clean architecture, and backend scalability
-- 💬 Ask me about Django · DRF · React · Supabase · Tailwind · Competitive Programming
+- 💬 Ask me about Django · DRF · React · Supabase · Tailwind · SQLAlchemy ·Competitive Programming
 - 📫 **moslehuddinasad@gmail.com**
 
 ---
