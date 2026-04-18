@@ -1,0 +1,131 @@
+<svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @keyframes fadeInUp {
+        from { opacity: 0; transform: translateY(20px); }
+        to   { opacity: 1; transform: translateY(0); }
+      }
+      @keyframes blink {
+        0%, 100% { opacity: 1; }
+        50%       { opacity: 0; }
+      }
+      @keyframes slideIn {
+        from { opacity: 0; transform: translateX(-16px); }
+        to   { opacity: 1; transform: translateX(0); }
+      }
+      @keyframes barGrow {
+        from { width: 0; }
+      }
+      .t1 { animation: fadeInUp 0.6s 0.1s both; }
+      .t2 { animation: fadeInUp 0.6s 0.3s both; }
+      .t3 { animation: fadeInUp 0.6s 0.5s both; }
+      .t4 { animation: fadeInUp 0.6s 0.7s both; }
+      .cursor { animation: blink 0.9s step-end infinite; }
+      .b1 { animation: barGrow 1.2s 0.8s cubic-bezier(.4,0,.2,1) both; }
+      .b2 { animation: barGrow 1.2s 1.0s cubic-bezier(.4,0,.2,1) both; }
+      .b3 { animation: barGrow 1.2s 1.2s cubic-bezier(.4,0,.2,1) both; }
+      .tag { animation: slideIn 0.5s both; }
+      .tag1 { animation-delay: 1.0s; }
+      .tag2 { animation-delay: 1.15s; }
+      .tag3 { animation-delay: 1.3s; }
+      .tag4 { animation-delay: 1.45s; }
+      .tag5 { animation-delay: 1.6s; }
+    </style>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#161b22"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="200" rx="12" fill="url(#bgGrad)"/>
+
+  <!-- Subtle grid lines -->
+  <line x1="0" y1="100" x2="800" y2="100" stroke="#30363d" stroke-width="0.5" opacity="0.4"/>
+  <line x1="400" y1="0" x2="400" y2="200" stroke="#30363d" stroke-width="0.5" opacity="0.3"/>
+
+  <!-- Left side: name + role -->
+  <g class="t1">
+    <text x="36" y="56" font-family="monospace" font-size="22" font-weight="bold" fill="#e6edf3">Mosleh Uddin Asad</text>
+    <rect x="266" y="38" width="10" height="18" rx="1" fill="#58a6ff" class="cursor"/>
+  </g>
+
+  <g class="t2">
+    <text x="36" y="82" font-family="monospace" font-size="12" fill="#8b949e">Software Engineer  ·  Full-Stack Developer  ·  Competitive Programmer</text>
+  </g>
+
+  <!-- Divider -->
+  <line x1="36" y1="96" x2="380" y2="96" stroke="#30363d" stroke-width="0.5" class="t2"/>
+
+  <!-- Skill bars -->
+  <g class="t3">
+    <text x="36" y="116" font-family="monospace" font-size="10" fill="#8b949e">Backend</text>
+    <rect x="90" y="108" width="140" height="6" rx="3" fill="#21262d"/>
+    <rect x="90" y="108" width="122" height="6" rx="3" fill="#1f6feb" class="b1"/>
+
+    <text x="36" y="134" font-family="monospace" font-size="10" fill="#8b949e">Frontend</text>
+    <rect x="90" y="126" width="140" height="6" rx="3" fill="#21262d"/>
+    <rect x="90" y="126" width="100" height="6" rx="3" fill="#388bfd" class="b2"/>
+
+    <text x="36" y="152" font-family="monospace" font-size="10" fill="#8b949e">CP / Algo</text>
+    <rect x="90" y="144" width="140" height="6" rx="3" fill="#21262d"/>
+    <rect x="90" y="144" width="82" height="6" rx="3" fill="#58a6ff" class="b3"/>
+  </g>
+
+  <!-- Tech tags -->
+  <g>
+    <g class="tag tag1">
+      <rect x="36" y="165" width="68" height="20" rx="4" fill="#21262d" stroke="#30363d" stroke-width="0.5"/>
+      <text x="70" y="179" font-family="monospace" font-size="10" fill="#79c0ff" text-anchor="middle">Django · DRF</text>
+    </g>
+    <g class="tag tag2">
+      <rect x="112" y="165" width="52" height="20" rx="4" fill="#21262d" stroke="#30363d" stroke-width="0.5"/>
+      <text x="138" y="179" font-family="monospace" font-size="10" fill="#79c0ff" text-anchor="middle">React</text>
+    </g>
+    <g class="tag tag3">
+      <rect x="172" y="165" width="68" height="20" rx="4" fill="#21262d" stroke="#30363d" stroke-width="0.5"/>
+      <text x="206" y="179" font-family="monospace" font-size="10" fill="#79c0ff" text-anchor="middle">PostgreSQL</text>
+    </g>
+    <g class="tag tag4">
+      <rect x="248" y="165" width="36" height="20" rx="4" fill="#21262d" stroke="#30363d" stroke-width="0.5"/>
+      <text x="266" y="179" font-family="monospace" font-size="10" fill="#79c0ff" text-anchor="middle">C++</text>
+    </g>
+    <g class="tag tag5">
+      <rect x="292" y="165" width="36" height="20" rx="4" fill="#21262d" stroke="#30363d" stroke-width="0.5"/>
+      <text x="310" y="179" font-family="monospace" font-size="10" fill="#79c0ff" text-anchor="middle">Git</text>
+    </g>
+  </g>
+
+  <!-- Right side: decorative code block -->
+  <g class="t4">
+    <rect x="430" y="30" width="334" height="140" rx="8" fill="#161b22" stroke="#30363d" stroke-width="0.5"/>
+    <!-- dots -->
+    <circle cx="448" cy="48" r="5" fill="#ff5f57"/>
+    <circle cx="464" cy="48" r="5" fill="#febc2e"/>
+    <circle cx="480" cy="48" r="5" fill="#28c840"/>
+    <line x1="430" y1="58" x2="764" y2="58" stroke="#30363d" stroke-width="0.5"/>
+
+    <text x="446" y="78" font-family="monospace" font-size="11" fill="#8b949e">class</text>
+    <text x="490" y="78" font-family="monospace" font-size="11" fill="#79c0ff">Engineer</text>
+    <text x="549" y="78" font-family="monospace" font-size="11" fill="#e6edf3">:</text>
+
+    <text x="446" y="96" font-family="monospace" font-size="11" fill="#8b949e">  stack</text>
+    <text x="490" y="96" font-family="monospace" font-size="11" fill="#e6edf3">= [</text>
+    <text x="514" y="96" font-family="monospace" font-size="11" fill="#a5d6ff">"Django"</text>
+    <text x="578" y="96" font-family="monospace" font-size="11" fill="#e6edf3">,</text>
+    <text x="584" y="96" font-family="monospace" font-size="11" fill="#a5d6ff">"React"</text>
+    <text x="632" y="96" font-family="monospace" font-size="11" fill="#e6edf3">]</text>
+
+    <text x="446" y="114" font-family="monospace" font-size="11" fill="#8b949e">  cp</text>
+    <text x="470" y="114" font-family="monospace" font-size="11" fill="#e6edf3">    =</text>
+    <text x="490" y="114" font-family="monospace" font-size="11" fill="#a5d6ff">"Codeforces"</text>
+
+    <text x="446" y="132" font-family="monospace" font-size="11" fill="#8b949e">  location</text>
+    <text x="510" y="132" font-family="monospace" font-size="11" fill="#e6edf3">=</text>
+    <text x="522" y="132" font-family="monospace" font-size="11" fill="#a5d6ff">"Dhaka, BD"</text>
+
+    <text x="446" y="150" font-family="monospace" font-size="11" fill="#8b949e">  open_to</text>
+    <text x="502" y="150" font-family="monospace" font-size="11" fill="#e6edf3">=</text>
+    <text x="514" y="150" font-family="monospace" font-size="11" fill="#a5d6ff">"new opportunities"</text>
+  </g>
+</svg>
