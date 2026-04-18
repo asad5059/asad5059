@@ -134,7 +134,7 @@
 
     <text x="438" y="167" font-family="monospace" font-size="10" fill="#8b949e">  open  </text>
     <text x="480" y="167" font-family="monospace" font-size="10" fill="#e6edf3">= </text>
-    <text x="492" y="167" font-family="monospace" font-size="10" fill="#a5d6ff">"new roles"</text>
+    <text x="492" y="167" font-family="monospace" font-size="10" fill="#a5d6ff">"new roles "</text>
     <rect x="542" y="157" width="7" height="11" rx="1" fill="#58a6ff" class="cursor"/>
   </g>
 </svg>
